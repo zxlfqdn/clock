@@ -7,13 +7,15 @@
 
 ## 使用方法
 
- java -jar clock.jar [OPTIONS]
+```
+java -jar clock.jar [OPTIONS]
 
   -d (--debug)                : debug mode. (default: false)
   -h (--help)                 : print this message and quit. (default: false)
   -hh (--more-help)           : print detail help message. (default: false)
   -tz (--timezone) <TIMEZONE> : Specifies time zone. Default is local time.
   -v (--version)              : show version. (default: false)
+```
 
 ## タイムゾーン
 
