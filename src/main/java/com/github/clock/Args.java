@@ -25,7 +25,7 @@ public class Args {
 
     @Option(name="-lc", aliases="--long-hand-color", usage="長針の色を指定する。")
     private String longHandColor = "#ff0000";
-	public String getLongHandColor(){
+    public String getLongHandColor(){
 	return longHandColor;
     }
 
